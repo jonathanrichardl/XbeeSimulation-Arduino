@@ -1,3 +1,7 @@
+Written by Jonathan Richard
+
+Department of Electrical Engineering, Universitas Indonesia
+
 # XbeeSimulationProteus
 Codes to demonstrate RF communication with XBEE simulated in proteus, some codes are written in pure c (by manually manipulating the registers) to maximize performance. 
 
